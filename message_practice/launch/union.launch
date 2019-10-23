@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="message_practice" type="Node1" name="Node1"/>
+    <node pkg="message_practice" type="Node2" name="Node2"/>
+    <node pkg="message_practice" type="Node3" name="Node3"/>
+</launch>

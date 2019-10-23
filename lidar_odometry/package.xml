@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lidar_odometry</name>
+  <version>1.0.0</version>
+  <description>The package which serves lidar-based odometry. </description>
+
+  <author email="stkimjh@kaist.ac.kr">ME492</author>
+  <maintainer email="jongwon.lee@kaist.ac.kr">Jongwon Lee</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>libpcl-all-dev</depend>
+
+  <export>
+  </export>
+</package>
